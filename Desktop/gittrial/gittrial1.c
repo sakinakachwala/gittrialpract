@@ -19,6 +19,9 @@ int main()
           second_term = next_term;
        }
        printf("%d\n",next_term);
+        printf("%d\n",next_term);
+        printf("%d\n",next_term);
+        printf("%d\n",next_term);
     }
  
     return 0;
